@@ -1,0 +1,45 @@
+@font-face {
+  font-family: lucida grande;
+  src: url(6216.ttf);
+}
+
+/* Body */ 
+body {
+  font-family: 'lucida grande', sans-serif;
+}
+ 
+/* Main Header */
+.main-header {
+  color: #666;
+  font-size: 47px;
+  padding: 23px;
+  word-spacing: 5px;
+}
+
+ /*Header*/
+.content-header {
+  color: #F07C17;
+  font-size: 26px;
+  font-weight: bold;
+  margin-top: 0px;
+  padding-bottom: 18px;
+  word-spacing: 3px;
+}
+ 
+/* Content text */
+.content-text {
+  color: #666;
+  font-size: 16px;
+  line-height: 2;
+  word-spacing: 2px;
+}
+ 
+ /* Feature*/
+.feature-box {
+  border: solid 1px #CCC;
+  margin-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+ 
